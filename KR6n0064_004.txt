@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:15.142652
+#+DATE: 2015-08-30 20:57:18.667977
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1597
 #+PROPERTY: ID KR6n0064
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1597
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0064_T_000-0321a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0064_T_004-0337c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《攝大乘論釋》卷第四¶
+《攝大乘論釋》卷第四¶
 ¶
 世親菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-3所知相分
-:PROPERTIES:
-:head: 所知相分第三之一
-:END:
-¶
+所知相分第三之一¶
 
 論曰。已說所知依。所知相復云何應見。此¶
 略有三種。一依他起相。二遍計所執相。三圓¶
@@ -91,7 +86,7 @@
 種色聲香味觸舍林地山似義影現。而於此¶
 中都無有義。由此喻顯應隨了知。一切時¶
 處皆唯有識。由此等言。應知。復有幻誑¶
-鹿愛瞖眩等喻。若於覺時一切時處皆如¶
+鹿愛⬤眩等喻。若於覺時一切時處皆如¶
 夢等。唯有識者如從夢覺。便覺夢中皆唯¶
 有識。覺時何故不如是轉。真智覺時亦如¶
 是轉。如在夢中此覺不轉。從夢覺時此覺¶

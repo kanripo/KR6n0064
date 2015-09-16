@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:15.179691
+#+DATE: 2015-08-30 20:57:18.691178
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1597
 #+PROPERTY: ID KR6n0064
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1597
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0064_T_000-0321a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0064_T_005-0343a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《攝大乘論釋》卷第五¶
+《攝大乘論釋》卷第五¶
 ¶
 世親菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 所知相分第三之二
-:END:
-¶
+所知相分第三之二¶
 
 論曰。復次云何得知。如依他起自性。遍計¶
 所執自性顯現而非稱體。由名前覺無稱體¶

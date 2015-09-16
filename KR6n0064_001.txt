@@ -1,30 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:15.033829
+#+DATE: 2015-08-30 20:57:18.590386
 #+TITLE: 攝大乘論釋
 #+PROPERTY: CBETA_ID T31n1597
 #+PROPERTY: ID KR6n0064
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 31, No. 1597
 #+PROPERTY: VOL 31
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0064_T_000-0321a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0064_T_001-0321a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1597[Nos.1595,1596;cf.Nos.1592-1594,1598]¶
-
- 《攝大乘論釋》卷第一¶
+No. 1597 [Nos. 1595, 1596; cf. Nos. 1592-1594, 1598]¶
+《攝大乘論釋》卷第一¶
 ¶
 世親菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-1總標綱要分
-:PROPERTIES:
-:head: 總標綱要分第一
-:END:
-¶
+總標綱要分第一¶
 
 #+BEGIN_VERSE
 「　諸破所知障翳暗
@@ -360,11 +355,7 @@ No.1597[Nos.1595,1596;cf.Nos.1592-1594,1598]¶
 佛身攝。齊是名為一切佛語。是故但說如¶
 此次第。¶
 
-2所知依分
-:PROPERTIES:
-:head: 《攝大乘論釋》所知依分第二之一
-:END:
-¶
+《攝大乘論釋》所知依分第二之一¶
 
 論曰。此中最初且說所知依。即阿賴耶識。世¶
 尊何處說阿賴耶識名阿賴耶識。謂薄伽梵¶
